@@ -22,7 +22,7 @@
             android:inputType="textEmailAddress"
             app:met_baseColor="@android:color/black"
             app:met_floatingLabel="highlight"
-            app:met_maxCharacters="20"
+            app:met_maxCharacters="40"
             />
         <com.rengwuxian.materialedittext.MaterialEditText
             android:id="@+id/edtPass"
