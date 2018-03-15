@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Log.d("App:", "Up pressed");
-                tvCount.setText(Integer.toString(++counter));
+                tvCount.setText(Integer.toString(counter));
             }
         });
 
